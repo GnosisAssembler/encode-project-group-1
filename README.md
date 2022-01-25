@@ -16,7 +16,3 @@
 - Devon
 - Marlo M
 
-
-```bash
-npm run install
-```
