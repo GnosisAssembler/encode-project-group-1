@@ -17,8 +17,6 @@
 - Marlo M
 
 
-```js
-const test() {
-return;
-}
+```bash
+npm run install
 ```
