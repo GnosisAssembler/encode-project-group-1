@@ -1,5 +1,5 @@
 to download the project dependencies:
-'''
+
 'npm i'
 
 to run the scripts locally for testing purposes:
@@ -13,5 +13,9 @@ to deploy the contracts to a testnet(rinkeby):
 to verify the contract on etherscan:
 
 'npx hardhat verify INSERT_CONTRACT_ADDRESS --network rinkeby'
-'''
 
+```js
+const test() {
+  return "test";
+  }
+```
