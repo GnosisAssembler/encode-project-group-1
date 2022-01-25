@@ -15,3 +15,10 @@
 - Panos Karypiadis
 - Devon
 - Marlo M
+
+
+```js
+const test() {
+return;
+}
+```
