@@ -1,0 +1,9 @@
+.Field {
+    display:block;
+    text-align: right;
+}
+
+.Field input {
+    margin-left: 10px;
+}
+
